@@ -1,0 +1,23 @@
+# Source files
+src/
+test/
+testdata/
+
+# Config files
+tsconfig.json
+vitest.config.ts
+.github/
+CLAUDE.md
+
+# Development files
+*.log
+.DS_Store
+node_modules/
+coverage/
+.nyc_output/
+
+# Keep dist folder and documentation
+# dist/
+# README.md
+# README.ja.md
+# LICENSE
