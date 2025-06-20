@@ -26,12 +26,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/astro-import-tree.git"
+    "url": "https://github.com/ideamans/astro-import-tree.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/astro-import-tree/issues"
+    "url": "https://github.com/ideamans/astro-import-tree/issues"
   },
-  "homepage": "https://github.com/yourusername/astro-import-tree#readme",
+  "homepage": "https://github.com/ideamans/astro-import-tree#readme",
   "engines": {
     "node": ">=18.0.0"
   },
