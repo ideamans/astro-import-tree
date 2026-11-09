@@ -193,3 +193,8 @@ interface ImportTreePage {
 ## ライセンス
 
 MIT
+
+## リリース（メンテナー向け）
+
+package.json の version を上げてコミットし、`git tag vX.Y.Z && git push origin vX.Y.Z`。
+GitHub Actions が npm の Trusted Publishing（OIDC）で公開する（トークンは使わない）。
